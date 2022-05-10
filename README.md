@@ -18,6 +18,9 @@ Regardless of which method you choose, all archives must have the following file
 - (optional) a copy of the license (if it utilizes a license that is not GPL 3.0)
 
 In the world repository, there should only be system software
+
 In the galaxy repository, there should be GPL only software
+
 In the universe repository, there can only be open source software (any license)
+
 In the multiverse repository, there should only be proprietary software
