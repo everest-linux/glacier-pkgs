@@ -24,3 +24,7 @@ In the galaxy repository, there should be GPL only software
 In the universe repository, there can only be open source software (any license)
 
 In the multiverse repository, there should only be proprietary software
+
+**NOTICES**
+
+Soon we will begin migrating packages to their correct repositories. 
