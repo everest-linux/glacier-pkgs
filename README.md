@@ -16,6 +16,7 @@ Regardless of which method you choose, all archives must have the following file
 - A script named REMOVE.sh describing what steps must be taken to remove the package
 - The executable (or a makefile and configure script if the program will be compiled from source)
 - (optional) a copy of the license (if it utilizes a license that is not GPL 3.0)
+- A separate file in the repositories named (package_name).signature (this can be done by running `shasum (package).tar.gz`)
 
 In the world repository, there should only be system software
 
